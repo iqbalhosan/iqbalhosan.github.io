@@ -11,13 +11,13 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Research"
-    url: /research/
-
   - title: "People"
     url: /people/
-
-  - title: "Publications"
+    
+ - title: "Research"
+    url: /research/
+    
+ - title: "Publications"
     url: /publications/
 
   - title: "Contact"
