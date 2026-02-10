@@ -11,8 +11,8 @@ main:
     - title: "People"
     url: /people/
   
-  - title: "Publications"
-    url: /Publications/
+  - title: "Publication"
+    url: /Publication/
     
   - title: "Research"
     url: /research/
