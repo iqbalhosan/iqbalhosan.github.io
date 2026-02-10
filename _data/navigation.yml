@@ -19,7 +19,10 @@ main:
     
  - title: "Published Research"
     url: /Published Research/
-
+    
+  - title: "Teaching"
+    url: /teaching/
+    
   - title: "Contact"
     url: /about/
 
