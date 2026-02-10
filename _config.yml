@@ -23,12 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Iqbal_picture.jpg"
-  name             : "Dr. Md. Iqbal Hosan"
-  pronouns         : # example: "she/her"  
-  bio              : " "
+  name   : "Dr. Iqbal Hosan"
+  avatar : "/images/profile.jpg"
+  bio    : "Assistant Professor, Department of Nuclear Engineering"
   location         : "Dhaka, Bangladesh"
-  employer         : "Department of Nuclear Engineering, University of Dhaka"
+  employer         : "University of Dhaka"
   uri              : # URL
   email            : "iqbalhosan@du.ac.bd" 
 
