@@ -1,7 +1,7 @@
 
 ---
-title: "Publications"
-permalink: /Publications/
+title: "Published Research"
+permalink: /Published Research/
 author_profile: true
 ---
 
