@@ -6,7 +6,7 @@ author_profile: true
 
 ## Group Leader
 
-**Dr. Iqbal Hosan**  
+**Dr. Md. Iqbal Hosan**  
 Assistant Professor  
 Department of Nuclear Engineering  
 University of Dhaka
