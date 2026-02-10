@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   name   : "Dr. Iqbal Hosan"
-  avatar : "/images/profile.jpg"
+  avatar : "/images/profile.jpg.jpg"
   bio    : "Assistant Professor, Department of Nuclear Engineering"
   location         : "Dhaka, Bangladesh"
   employer         : "University of Dhaka"
